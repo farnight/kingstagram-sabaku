@@ -17,7 +17,7 @@ var fonts = [];
 
 /*** FORM FUNCTIONS ***/
 //load character list
-$.get('list/character.txt', function(data) {
+$.get('https://raw.githubusercontent.com/farnight/kingstagram-sabaku/main/KH3PostGenerator-master/List/Character.txt', function(data) {
 	//split file content by line break
     var characters = data.split("\n");
 	//iterate all lines
