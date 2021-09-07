@@ -59,9 +59,10 @@ Xion;;シオン;;Xion.jpg
 Xion;Xion - Organization XIII;シオン;シオン 【13機関】;Xion-Org.jpg
 Yozora;;ヨゾラ;;Yozora.jpg
 Zexion;;ゼクシオン;;Zexion.jpg
-Sabaku;;;;Sabaku.jpg
-DemonTower;;;;Demon_Tower.jpg
-MasterOfMasters;;;;MoM.jpg
-Luxu;;;;Luxu.jpg
-GruppoVeterani;;;;GruppoVeterani.jpg
-Utada Hikaru;;;;Utada_Hikaru.jpg
+Sabaku;;砂漠;;Sabaku.jpg
+DemonTower;;デビルズタワー;;Demon_Tower.jpg
+MasterOfMasters;;マスター・オブ・マスター;;MoM.jpg
+Luxu;;ルシュ;;Luxu.jpg
+GruppoVeterani;;退役軍人;;GruppoVeterani.jpg
+Utada Hikaru;;宇多田ヒカル;;Utada_Hikaru.jpg
+Nomura;;;;Nomura.jpg
