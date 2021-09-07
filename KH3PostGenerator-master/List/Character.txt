@@ -64,6 +64,6 @@ DemonTower;;デビルズタワー;;Demon_Tower.jpg
 MasterOfMasters;;マスター・オブ・マスター;;MoM.jpg
 Luxu;;ルシュ;;Luxu.jpg
 GruppoVeterani;;退役軍人;;GruppoVeterani.jpg
-Utada\xa0Hikaru;;宇多田ヒカル;;Utada_Hikaru.jpg
+Utada;;宇多田ヒカル;;Utada_Hikaru.jpg
 Nomura;Nomura Serio;野村 哲也;;Nomura.jpg
 Nomura;Kekmura;;;TetsuyaNomura.jpg
