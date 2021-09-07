@@ -65,4 +65,5 @@ MasterOfMasters;;マスター・オブ・マスター;;MoM.jpg
 Luxu;;ルシュ;;Luxu.jpg
 GruppoVeterani;;退役軍人;;GruppoVeterani.jpg
 Utada Hikaru;;宇多田ヒカル;;Utada_Hikaru.jpg
-Nomura;;;;Nomura.jpg
+Nomura;;野村 哲也;;Nomura.jpg
+TetsuyaNomura;;;;TetsuyaNomura.jpg
