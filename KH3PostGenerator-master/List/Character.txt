@@ -64,3 +64,4 @@ DemonTower;;;;Demon_Tower.jpg
 MasterOfMasters;;;;MoM.jpg
 Luxu;;;;Luxu.jpg
 GruppoVeterani;;;;GruppoVeterani.jpg
+Utada Hikaru;;;;Utada_Hikaru.jpg
