@@ -67,3 +67,4 @@ GruppoVeterani;;退役軍人;;GruppoVeterani.jpg
 Utada;;宇多田ヒカル;;Utada_Hikaru.jpg
 Nomura;Nomura Serio;野村 哲也;;Nomura.jpg
 Nomura;Kekmura;;;TetsuyaNomura.jpg
+4Claws;;;;4Claws
