@@ -73,3 +73,5 @@ Pifferaio43;;;;Unknown.jpg
 AquaBestCharacter95;;;;Unknown.jpg
 NoKairiIsTheBestCharacter84;;;;Unknown.jpg
 MarioDraghi;;;;Unknown.jpg
+Supervisor;;;;Unknown.jpg
+Grafico;;;;Unknown.jpg
