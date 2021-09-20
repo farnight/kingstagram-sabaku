@@ -59,6 +59,7 @@ Saix;;サイクス;;Saix.jpg
 Skuld;;スカルド;;Skuld.jpg
 Sora;;ソラ;;Sora.jpg
 Strelitzia;;ストレリチア;;Strelitzia.jpg
+StrelitziaAreola;Strelitzia;;StrelitziaAreola.jpg
 Supervisor;;;;Unknown.jpg
 Terra;;テラ;;Terra.jpg
 Tifa;;ティファ;;Tifa.jpg
