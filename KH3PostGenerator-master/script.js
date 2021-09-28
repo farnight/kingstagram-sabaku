@@ -17,7 +17,7 @@ var fonts = [];
 
 /*** FORM FUNCTIONS ***/
 //load character list
-$.get('https://raw.githubusercontent.com/farnight/kingstagram-sabaku/main/KH3PostGenerator-master/List/Character.txt', function(data) {
+$.get('https://raw.githubusercontent.com/farnight/kingstagram-sabaku/main/KH3PostGenerator-master/List/character.txt', function(data) {
 	//split file content by line break
     var characters = data.split("\n");
 	//iterate all lines
@@ -177,7 +177,7 @@ function generate() {
 	getfont();
 	var height = calculateheight();
 	getchara('#frmchara');
-	var vname = $("#EarningsTypes").val() == undefined ? '' : $("#EarningsTypes").val().trim(); vname = vname.replace(/ /g, '%20');
+	
 	//If export background is selected then add 500px left padding to all elements drawn into canvas
 	if($("#exportbg").prop('checked') == true) wpad = 500;
 	else wpad = 0;
@@ -407,7 +407,6 @@ function loadmessage(start, msg, pad, width, linecnt, startname) {
 	
 	//split message by line break
 	var msgline = msg.split("\n");
-
 	
 	//Iterate every line on message
 	for (var y = 0; y < msgline.length; y++) {
@@ -416,18 +415,10 @@ function loadmessage(start, msg, pad, width, linecnt, startname) {
 		//Iterate all words in line
 		for (var x = 0; x < msg.length; x++) {
 			//If message started with a name then set font color to grey, if it started with @ set it to blue, otherwise set as black
-			
-			
 			if (startname) { ctx.fillStyle = '#777777'; startname = false; msg[x] += ' '; }
 			else if (msg[x].substring(0, 1) == '@') ctx.fillStyle = 'MediumBlue';
-			else if (msg[x].substring(0, 1) == '#') {
-				ctx.drawImage(document.getElementById("t"),msgwidth, line);
-				msg[x]=msg[x].substring(1) 
-				ctx.fillStyle = 'MediumBlue';
-				msgwidth+=30;
-			}
+			else if (msg[x].substring(0, 1) == '#') ctx.drawImage(document.getElementById("t");
 			else ctx.fillStyle = 'Black';
-			
 			
 			//Write the word into canvas and measure the length of word
 			ctx.fillText(msg[x] + ' ', msgwidth, line);
