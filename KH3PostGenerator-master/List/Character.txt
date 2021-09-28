@@ -1,79 +1,91 @@
-???;;???;;Unknown.jpg
-4Claws;;;;4Claws.jpg
-Aced;;アセッド;;Aced.jpg
-Aerith;;エアリス;;Aerith.jpg
-Aqua;;アクア;;Aqua.jpg
-Ava;;アヴァ;;Ava.jpg
-Axel;;アクセル;;Axel.jpg
-Brain;;ブレイン;;Brain.jpg
-Chip;;チップ;;Chip.jpg
-Chirithy;;チリシィ;;Chirithy.jpg
-Cid;;シド;;Cid.jpg
-Cloud;;クラウド;;Cloud.jpg
-Dale;;デール;;Dale.jpg
-DemonTower;;デビルズタワー;;Demon_Tower.jpg
-Demyx;;デミックス;;Demyx.jpg
-Donald;;ドナルド;;Donald.jpg
-Elrena;;エルレナ;;Elrena.jpg
-Ephemer;;エフェメラ;;Ephemer.jpg
-Gladiolus;;グラディオラス;;Gladiolus.jpg
-Goofy;;グーフィー;;Goofy.jpg
-Grafico;;;;Unknown.jpg
-GruppoVeterani;;退役軍人;;GruppoVeterani.jpg
-Gula;;グウラ;;Gula.jpg
+---------------KH----------------;;;;
 Hayner;;ハイネ;;Hayner.jpg
-Hercules;;;;hercules.jpg
 Ienzo;;イエンツォ;;Ienzo.jpg
-Ignis;;イグニス;;Ignis.jpg
-Invi;;インヴィ;;Invi.jpg
-Ira;;イラ;;Ira.jpg
 IsaアイサIsa.jpg
 Kairi;;カイリ;;Kairi.jpg
-Larxene;;ラクシーヌ;;Larxene.jpg
-Lauriam;;ラーリアム;;Lauriam.jpg
 LeaリアLea.jpg
-Leon;;レオン;;Leon.jpg
-Lexaeus;;レクセウス;;Lexaeus.jpg
-Lunafreya;;ルナフレーナ;;Lunafreya.jpg
-Luxord;;ルクソード;;Luxord.jpg
-Luxu;;ルシュ;;Luxu.jpg
-Marluxia;;マールーシャ;;Marluxia.jpg
-MasterOfMasters;;マスター・オブ・マスター;;MoM.jpg
-Mickey;;ミッキー;;Mickey.jpg
-Mike;;砂漠;;Sabaku.jpg
 Namine;;ナミネ;;Namine.jpg
-Noctis;;ノクティス;;Noctis.jpg
-Nomura;Kekmura;;;TetsuyaNomura.jpg
-Nomura;Nomura Serio;野村 哲也;;Nomura.jpg
 Olette;;オレット;;Olette.jpg
 Pence;;ピンツ;;Pence.jpg
-Pifferaio43;;;;Unknown.jpg
-Prompto;;プロンプト;;Prompto.jpg
 Riku;;リク;;Riku.jpg
 Roxas;;ロクサス;;Roxas.jpg
+Sora;;ソラ;;Sora.jpg
+Yozora;;;;Yozora.jpg
+XionシオンXion.jpg
+-------------Disney--------------;;;;
+Chip;;チップ;;Chip.jpg
+Dale;;デール;;Dale.jpg
+Donald;;ドナルド;;Donald.jpg
+Goofy;;グーフィー;;Goofy.jpg
+Hercules;;;;hercules.jpg
+Mickey;;ミッキー;;Mickey.jpg
+----------Final Fantasy----------;;;;
+Aerith;;エアリス;;Aerith.jpg
+Cid;;シド;;Cid.jpg
+Cloud;;クラウド;;Cloud.jpg
+Gladiolus;;グラディオラス;;Gladiolus.jpg
+Ignis;;イグニス;;Ignis.jpg
+Leon;;レオン;;Leon.jpg
+Lunafreya;;ルナフレーナ;;Lunafreya.jpg
+Noctis;;ノクティス;;Noctis.jpg
+Prompto;;プロンプト;;Prompto.jpg
+Tifa;;ティファ;;Tifa.jpg
+Yuffie;;ユフィ;;Yuffie.jpg
+-------Organizzazione Xiii-------;;;;
+Axel;;アクセル;;Axel.jpg
+Demyx;;デミックス;;Demyx.jpg
+Larxene;;ラクシーヌ;;Larxene.jpg
+Lexaeus;;レクセウス;;Lexaeus.jpg
+Luxord;;ルクソード;;Luxord.jpg
+Marluxia;;マールーシャ;;Marluxia.jpg
 Roxas;Roxas - Organization XIII;ロクサス;ロクサス 【13機関】;Roxas-Org.jpg
 Saix;;サイクス;;Saix.jpg
-Skuld;;スカルド;;Skuld.jpg
-Sora;;ソラ;;Sora.jpg
-Strelitzia;;ストレリチア;;Strelitzia.jpg
-Strelitzia;StrelitziaAureola;;;StrelitziaAureola.jpg
-Supervisor;;;;Unknown.jpg
-Terra;;テラ;;Terra.jpg
-Tifa;;ティファ;;Tifa.jpg
-Utada;;宇多田ヒカル;;Utada_Hikaru.jpg
-Vanitas;;ヴァニタス;;Vanitas.jpg
-Ventus;Ventus - BBS;ヴェントゥス;;Ventus.jpg
-Ventus;Ventus - UX;ヴェントゥス;ヴェントゥス 【UX】;Ventus-UX.jpg
-Vexen;;ヴィクセン;;Vexen.jpg
 Xaldin;;ザルディン;;Xaldin.jpg
 Xemnas;;ゼムナス;;Xemnas.jpg
 Xigbar;;ジグバル;;Xigbar.jpg
-XionシオンXion.jpg
 Xion;Xion;シオン;シオン 【13機関】;Xion-Org.jpg
-Yuffie;;ユフィ;;Yuffie.jpg
+Vexen;;ヴィクセン;;Vexen.jpg
 Zexion;;ゼクシオン;;Zexion.jpg
--------Twitch chat-------;;;;
+--------------KHBBS--------------;;;;
+Aqua;;アクア;;Aqua.jpg
+Terra;;テラ;;Terra.jpg
+Vanitas;;ヴァニタス;;Vanitas.jpg
+Ventus;Ventus - BBS;ヴェントゥス;;Ventus.jpg
+--------------KH Uχ--------------;;;;
+Aced;;アセッド;;Aced.jpg
+Ava;;アヴァ;;Ava.jpg
+Brain;;ブレイン;;Brain.jpg
+Chirithy;;チリシィ;;Chirithy.jpg
+Elrena;;エルレナ;;Elrena.jpg
+Ephemer;;エフェメラ;;Ephemer.jpg
+Gula;;グウラ;;Gula.jpg
+Invi;;インヴィ;;Invi.jpg
+Ira;;イラ;;Ira.jpg
+Lauriam;;ラーリアム;;Lauriam.jpg
+Luxu;;ルシュ;;Luxu.jpg
+MasterOfMasters;;マスター・オブ・マスター;;MoM.jpg
+Skuld;;スカルド;;Skuld.jpg
+Strelitzia;;ストレリチア;;Strelitzia.jpg
+Strelitzia;StrelitziaAureola;;;StrelitziaAureola.jpg
+Ventus;Ventus - UX;ヴェントゥス;ヴェントゥス 【UX】;Ventus-UX.jpg
+-----------Square Enix-----------;;;;
+Grafico;;;;Unknown.jpg
+Nomura;Kekmura;;;TetsuyaNomura.jpg
+Nomura;Nomura Serio;野村 哲也;;Nomura.jpg
+Supervisor;;;;Unknown.jpg
+Utada;;宇多田ヒカル;;Utada_Hikaru.jpg
+-------------Sabaku--------------;;;;
+Mike;;砂漠;;Sabaku.jpg
+4Claws;;;;4Claws.jpg
+GruppoVeterani;;退役軍人;;GruppoVeterani.jpg
+--------------Altri--------------;;;;
+???;;???;;Unknown.jpg
+DemonTower;;デビルズタワー;;Demon_Tower.jpg
+-----------Twitch chat-----------;;;;
+Twitch;TwitchLogo;;Twitch.jpg
+Pifferaio43;;;;Unknown.jpg
 Darkangel82;;;;Unknown.jpg
+Pifferaio43;;;;Unknown.jpg
 AquaBestCharacter95;;;;Unknown.jpg
 NoKairiIsTheBestCharacter84;;;;Unknown.jpg
 MarioDraghi;;;;Unknown.jpg
