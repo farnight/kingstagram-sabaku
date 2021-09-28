@@ -419,7 +419,7 @@ function loadmessage(start, msg, pad, width, linecnt, startname) {
 			
 			if (startname) { ctx.fillStyle = '#777777'; startname = false; msg[x] += ' '; }
 			else if (msg[x].substring(0, 1) == '@') ctx.fillStyle = 'MediumBlue';
-			else if (msg[x].substring(0, 1) == '#') ctx.drawImage(document.getElementById("t");
+			else if (msg[x].substring(0, 1) == '#') {ctx.drawImage(document.getElementById("t")); x++;}
 			else ctx.fillStyle = 'Black';
 			
 			
