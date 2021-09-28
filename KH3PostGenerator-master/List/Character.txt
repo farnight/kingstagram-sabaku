@@ -76,7 +76,7 @@ Skuld;;スカルド;;Skuld.jpg
 Strelitzia;;ストレリチア;;Strelitzia.jpg
 Strelitzia;StrelitziaAureola;;;StrelitziaAureola.jpg
 Ventus;Ventus - UX;ヴェントゥス;ヴェントゥス 【UX】;Ventus-UX.jpg
---------------KH DR--------------;;;;
+--------------KH DR--------------
 BragiBragi.jpg
 HermodHermod.jpg
 OdinOdin.jpg
