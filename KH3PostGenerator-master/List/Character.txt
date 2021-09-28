@@ -1,9 +1,9 @@
 ---------------KH----------------;;;;
 Hayner;;ハイネ;;Hayner.jpg
 Ienzo;;イエンツォ;;Ienzo.jpg
-IsaアイサIsa.jpg
+Isa;;アイサ;;Isa.jpg
 Kairi;;カイリ;;Kairi.jpg
-LeaリアLea.jpg
+Lea;;リア;;Lea.jpg
 Namine;;ナミネ;;Namine.jpg
 Olette;;オレット;;Olette.jpg
 Pence;;ピンツ;;Pence.jpg
@@ -13,7 +13,7 @@ Sora;;ソラ;;Sora.jpg
 Yozora;;;;Yozora.jpg
 Eraqus;YoungEraqus;;;YoungEraqus.jpg
 Xehanort;YoungXehanort;;;YoungXehanort.jpg
-XionシオンXion.jpg
+Xion;;シオン;;Xion.jpg
 -------------Disney--------------;;;;
 Aladdin;;;;Aladdin.jpg
 Anna;;;;Anna.jpg
@@ -21,14 +21,20 @@ Chip;;チップ;;Chip.jpg
 Dale;;デール;;Dale.jpg
 Donald;;ドナルド;;Donald.jpg
 Elsa;;;;Elsa.jpg
+Fairy;;;;Fairy.jpg
 Flynn;;;;Flynn.jpg
 Goofy;;グーフィー;;Goofy.jpg
+Hades;;;;Hades.jpg
+Hades;RedHades;;;HadesRed.jpg
 Hercules;;;;hercules.jpg
 JackSparrow;;;;Jack_Sparrow.jpg
 Jasmine;;;;Jasmine.jpg
+Maleficent;;;;Maleficent.jpg
+MaleficentDragon;;;;MaleficentDragon.jpg
 Megara;;;;Megara.jpg
 Mickey;;ミッキー;;Mickey.jpg
 Phil;;;;Phil.jpg
+Pete;;;;Pete.jpg
 Rapunzel;;;;Rapunzel.jpg
 ----------Final Fantasy----------;;;;
 Aerith;;エアリス;;Aerith.jpg
@@ -40,6 +46,7 @@ Leon;;レオン;;Leon.jpg
 Lunafreya;;ルナフレーナ;;Lunafreya.jpg
 Noctis;;ノクティス;;Noctis.jpg
 Prompto;;プロンプト;;Prompto.jpg
+Sephiroth;;;;Sephirot.jpg
 Tifa;;ティファ;;Tifa.jpg
 Yuffie;;ユフィ;;Yuffie.jpg
 -------Organizzazione Xiii-------;;;;
@@ -67,6 +74,7 @@ Aced;;アセッド;;Aced.jpg
 Ava;;アヴァ;;Ava.jpg
 Brain;;ブレイン;;Brain.jpg
 Chirithy;;チリシィ;;Chirithy.jpg
+Darkness;;;;Darkness.jpg
 Elrena;;エルレナ;;Elrena.jpg
 Ephemer;;エフェメラ;;Ephemer.jpg
 Gula;;グウラ;;Gula.jpg
