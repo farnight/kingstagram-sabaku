@@ -414,12 +414,17 @@ function loadmessage(start, msg, pad, width, linecnt, startname) {
 		var msg = msgline[y].trim().replace(/ +(?= )/g, '').split(" ");
 		//Iterate all words in line
 		for (var x = 0; x < msg.length; x++) {
-			//If message started with a name then set font color to grey, if it started with @ set it to blue, otherwise set as black
-			if (startname) { ctx.fillStyle = '#777777'; startname = false; msg[x] += ' '; }
+			//If message started with a name then set font color to grey, if it started with @ set it to blue, otherwise set as black							      
+                        if (startname) { ctx.fillStyle = '#777777'; startname = false; msg[x] += ' '; }
 			else if (msg[x].substring(0, 1) == '@') ctx.fillStyle = 'MediumBlue';
-			else if (msg[x].substring(0, 1) == '#') ctx.drawImage(document.getElementById("t");
-			else ctx.fillStyle = 'Black';
+			else if (msg[x].substring(0, 1) == '#') {
+				ctx.drawImage(document.getElementById("t"),msgwidth, line);
+				msg[x]=msg[x].substring(1) 
+				ctx.fillStyle = 'MediumBlue';
+				msgwidth+=30;
+			}
 			
+			else ctx.fillStyle = 'Black';
 			//Write the word into canvas and measure the length of word
 			ctx.fillText(msg[x] + ' ', msgwidth, line);
 			msgwidth += ctx.measureText(msg[x] + ' ').width;
