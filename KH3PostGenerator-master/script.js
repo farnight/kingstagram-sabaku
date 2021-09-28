@@ -423,7 +423,8 @@ function loadmessage(start, msg, pad, width, linecnt, startname) {
 			else if (msg[x].substring(0, 1) == '#') {
 				ctx.drawImage(document.getElementById("t"),msgwidth, line);
 				msg[x]=msg[x].substring(1) 
-				msgwidth+=80;
+				ctx.fillStyle = 'MediumBlue';
+				msgwidth+=30;
 			}
 			else ctx.fillStyle = 'Black';
 			
