@@ -28,6 +28,7 @@ JackSparrow;;;;Jack_Sparrow.jpg
 Jasmine;;;;Jasmine.jpg
 Megara;;;;Megara.jpg
 Mickey;;ミッキー;;Mickey.jpg
+Phil;;;;Phil.jpg
 Rapunzel;;;;Rapunzel.jpg
 ----------Final Fantasy----------;;;;
 Aerith;;エアリス;;Aerith.jpg
