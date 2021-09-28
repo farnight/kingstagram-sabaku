@@ -22,7 +22,7 @@ Grafico;;;;Unknown.jpg
 GruppoVeterani;;退役軍人;;GruppoVeterani.jpg
 Gula;;グウラ;;Gula.jpg
 Hayner;;ハイネ;;Hayner.jpg
-Hercules;;;;Hercules.jpg
+Hercules;;;;hercules.jpg
 Ienzo;;イエンツォ;;Ienzo.jpg
 Ignis;;イグニス;;Ignis.jpg
 Invi;;インヴィ;;Invi.jpg
@@ -77,3 +77,4 @@ Darkangel82;;;;Unknown.jpg
 AquaBestCharacter95;;;;Unknown.jpg
 NoKairiIsTheBestCharacter84;;;;Unknown.jpg
 MarioDraghi;;;;Unknown.jpg
+Renè;;;;Rene.jpg
