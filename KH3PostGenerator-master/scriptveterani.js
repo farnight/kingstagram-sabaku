@@ -417,6 +417,7 @@ function loadmessage(start, msg, pad, width, linecnt, startname) {
 			//If message started with a name then set font color to grey, if it started with @ set it to blue, otherwise set as black
 			if (startname) { ctx.fillStyle = '#777777'; startname = false; msg[x] += ' '; }
 			else if (msg[x].substring(0, 1) == '@') ctx.fillStyle = 'MediumBlue';
+			else if (msg[x].substring(0, 1) == '#') ctx.drawImage(document.getElementById("t");
 			else ctx.fillStyle = 'Black';
 			
 			//Write the word into canvas and measure the length of word
