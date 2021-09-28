@@ -407,6 +407,7 @@ function loadmessage(start, msg, pad, width, linecnt, startname) {
 	
 	//split message by line break
 	var msgline = msg.split("\n");
+
 	
 	//Iterate every line on message
 	for (var y = 0; y < msgline.length; y++) {
@@ -420,8 +421,9 @@ function loadmessage(start, msg, pad, width, linecnt, startname) {
 			if (startname) { ctx.fillStyle = '#777777'; startname = false; msg[x] += ' '; }
 			else if (msg[x].substring(0, 1) == '@') ctx.fillStyle = 'MediumBlue';
 			else if (msg[x].substring(0, 1) == '#') {
-				ctx.drawImage(document.getElementById("t")); 
+				ctx.drawImage(document.getElementById("t",msgwidth, line));
 				msg[x]=msg[x].substring(1) 
+				msgwidth+=80;
 			}
 			else ctx.fillStyle = 'Black';
 			
