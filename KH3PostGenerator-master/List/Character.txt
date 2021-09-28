@@ -21,12 +21,14 @@ Chip;;チップ;;Chip.jpg
 Dale;;デール;;Dale.jpg
 Donald;;ドナルド;;Donald.jpg
 Elsa;;;;Elsa.jpg
+Flynn;;;;Flynn.jpg
 Goofy;;グーフィー;;Goofy.jpg
 Hercules;;;;hercules.jpg
 JackSparrow;;;;Jack_Sparrow.jpg
 Jasmine;;;;Jasmine.jpg
 Megara;;;;Megara.jpg
 Mickey;;ミッキー;;Mickey.jpg
+Rapunzel;;;;Rapunzel.jpg
 ----------Final Fantasy----------;;;;
 Aerith;;エアリス;;Aerith.jpg
 Cid;;シド;;Cid.jpg
@@ -76,13 +78,13 @@ Skuld;;スカルド;;Skuld.jpg
 Strelitzia;;ストレリチア;;Strelitzia.jpg
 Strelitzia;StrelitziaAureola;;;StrelitziaAureola.jpg
 Ventus;Ventus - UX;ヴェントゥス;ヴェントゥス 【UX】;Ventus-UX.jpg
---------------KH DR--------------
-BragiBragi.jpg
-HermodHermod.jpg
-OdinOdin.jpg
-UrdUrd.jpg
-VorVor.jpg
-Vor;Vor (Too short for the camera)Vor.jpg
+--------------KH DR--------------;;;;
+Bragi;;;;Bragi.jpg
+Hermod;;;;Hermod.jpg
+Odin;;;;Odin.jpg
+Urd;;;;Urd.jpg
+Vor;;;;Vor.jpg
+Vor;Vor (Too short for the camera);;;Vor.jpg
 -----------Square Enix-----------;;;;
 Grafico;;;;Unknown.jpg
 Nomura;Kekmura;;;TetsuyaNomura.jpg
