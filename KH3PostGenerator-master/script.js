@@ -177,7 +177,7 @@ function generate() {
 	getfont();
 	var height = calculateheight();
 	getchara('#frmchara');
-	
+	var vname = $("#EarningsTypes").val() == undefined ? '' : $("#EarningsTypes").val().trim(); vname = vname.replace(/ /g, '%20');
 	//If export background is selected then add 500px left padding to all elements drawn into canvas
 	if($("#exportbg").prop('checked') == true) wpad = 500;
 	else wpad = 0;
