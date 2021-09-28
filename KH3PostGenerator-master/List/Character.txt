@@ -11,13 +11,21 @@ Riku;;リク;;Riku.jpg
 Roxas;;ロクサス;;Roxas.jpg
 Sora;;ソラ;;Sora.jpg
 Yozora;;;;Yozora.jpg
+Eraqus;YoungEraqus;;;YoungEraqus.jpg
+Xehanort;YoungXehanort;;;YoungXehanort.jpg
 XionシオンXion.jpg
 -------------Disney--------------;;;;
+Aladdin;;;;Aladdin.jpg
+Anna;;;;Anna.jpg
 Chip;;チップ;;Chip.jpg
 Dale;;デール;;Dale.jpg
 Donald;;ドナルド;;Donald.jpg
+Elsa;;;;Elsa.jpg
 Goofy;;グーフィー;;Goofy.jpg
 Hercules;;;;hercules.jpg
+JackSparrow;;;;Jack_Sparrow.jpg
+Jasmine;;;;Jasmine.jpg
+Megara;;;;Megara.jpg
 Mickey;;ミッキー;;Mickey.jpg
 ----------Final Fantasy----------;;;;
 Aerith;;エアリス;;Aerith.jpg
@@ -68,6 +76,13 @@ Skuld;;スカルド;;Skuld.jpg
 Strelitzia;;ストレリチア;;Strelitzia.jpg
 Strelitzia;StrelitziaAureola;;;StrelitziaAureola.jpg
 Ventus;Ventus - UX;ヴェントゥス;ヴェントゥス 【UX】;Ventus-UX.jpg
+--------------KH DR--------------;;;;
+BragiBragi.jpg
+HermodHermod.jpg
+OdinOdin.jpg
+UrdUrd.jpg
+VorVor.jpg
+Vor;Vor (Too short for the camera)Vor.jpg
 -----------Square Enix-----------;;;;
 Grafico;;;;Unknown.jpg
 Nomura;Kekmura;;;TetsuyaNomura.jpg
@@ -82,7 +97,7 @@ GruppoVeterani;;退役軍人;;GruppoVeterani.jpg
 ???;;???;;Unknown.jpg
 DemonTower;;デビルズタワー;;Demon_Tower.jpg
 -----------Twitch chat-----------;;;;
-Twitch;TwitchLogo;;Twitch.jpg
+Twitch;TwitchLogo;;;Twitch.jpg
 Pifferaio43;;;;Unknown.jpg
 Darkangel82;;;;Unknown.jpg
 Pifferaio43;;;;Unknown.jpg
