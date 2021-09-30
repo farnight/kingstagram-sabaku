@@ -36,6 +36,7 @@ Mickey;;ミッキー;;Mickey.jpg
 Phil;;;;Phil.jpg
 Pete;;;;Pete.jpg
 Rapunzel;;;;Rapunzel.jpg
+Woody.jpg
 ----------Final Fantasy----------;;;;
 Aerith;;エアリス;;Aerith.jpg
 Cid;;シド;;Cid.jpg
@@ -102,8 +103,10 @@ Supervisor;;;;Unknown.jpg
 Utada;;宇多田ヒカル;;Utada_Hikaru.jpg
 -------------Sabaku--------------;;;;
 Mike;;砂漠;;Sabaku.jpg
+Phenrir;;;;Phenrir.jpg
 4Claws;;;;4Claws.jpg
 GruppoVeterani;;退役軍人;;GruppoVeterani.jpg
+DonutGummiship;;;;Donut_Gummiship.jpg
 --------------Altri--------------;;;;
 ???;;???;;Unknown.jpg
 DemonTower;;デビルズタワー;;Demon_Tower.jpg
