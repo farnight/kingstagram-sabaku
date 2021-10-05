@@ -15,7 +15,7 @@ Eraqus;YoungEraqus;;;YoungEraqus.jpg
 Xehanort;YoungXehanort;;;YoungXehanort.jpg
 Xion;;シオン;;Xion.jpg
 -------------Disney--------------;;;;
-Disney;;;;Diseny.png
+Disney;;;;Diseny.jpg
 Aladdin;;;;Aladdin.jpg
 Anna;;;;Anna.jpg
 Chip;;チップ;;Chip.jpg
