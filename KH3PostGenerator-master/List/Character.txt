@@ -15,6 +15,7 @@ Eraqus;YoungEraqus;;;YoungEraqus.jpg
 Xehanort;YoungXehanort;;;YoungXehanort.jpg
 Xion;;シオン;;Xion.jpg
 -------------Disney--------------;;;;
+Disney;;;;Diseny.png
 Aladdin;;;;Aladdin.jpg
 Anna;;;;Anna.jpg
 Chip;;チップ;;Chip.jpg
@@ -96,6 +97,7 @@ Urd;;;;Urd.jpg
 Vor;;;;Vor.jpg
 Vor;Vor (Too short for the camera);;;Vor.jpg
 -----------Square Enix-----------;;;;
+SquareEnix;;;;SquareEnix.jpg
 Grafico;;;;Unknown.jpg
 Nomura;Kekmura;;;TetsuyaNomura.jpg
 Nomura;Nomura Serio;野村 哲也;;Nomura.jpg
@@ -109,6 +111,7 @@ GruppoVeterani;;退役軍人;;GruppoVeterani.jpg
 DonutGummiship;;;;Donut_Gummiship.jpg
 --------------Altri--------------;;;;
 ???;;???;;Unknown.jpg
+Nintendo;;;;Nintendo.jpg
 DemonTower;;デビルズタワー;;Demon_Tower.jpg
 -----------Twitch chat-----------;;;;
 Twitch;TwitchLogo;;;Twitch.jpg
