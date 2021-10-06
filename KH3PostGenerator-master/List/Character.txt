@@ -107,6 +107,7 @@ Utada;;宇多田ヒカル;;Utada_Hikaru.jpg
 Mike;;砂漠;;Sabaku.jpg
 Phenrir;;;;Phenrir.jpg
 4Claws;;;;4Claws.jpg
+SabakuNoFellers;;;;SabakuNoFellers.jpg
 GruppoVeterani;;退役軍人;;GruppoVeterani.jpg
 DonutGummiship;;;;Donut_Gummiship.jpg
 --------------Altri--------------;;;;
