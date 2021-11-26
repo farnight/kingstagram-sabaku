@@ -69,8 +69,8 @@ Vexen;;ヴィクセン;;Vexen.jpg
 Zexion;;ゼクシオン;;Zexion.jpg
 --------------KHBBS--------------;;;;
 Aqua;;アクア;;Aqua.jpg
-AntiAqua;Aqua;;;AntiAqua.jpg
-EvilAqua;Aqua;;;EvilAqua.jpg
+Aqua;AntiAqua;;;AntiAqua.jpg
+Aqua;EvilAqua;;;EvilAqua.jpg
 Terra;;テラ;;Terra.jpg
 Vanitas;;ヴァニタス;;Vanitas.jpg
 Ventus;Ventus - BBS;ヴェントゥス;;Ventus.jpg
