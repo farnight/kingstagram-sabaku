@@ -34,6 +34,7 @@ Maleficent;;;;Maleficent.jpg
 MaleficentDragon;;;;MaleficentDragon.jpg
 Megara;;;;Megara.jpg
 Mickey;;ミッキー;;Mickey.jpg
+Minnie;;;;Minnie.jpg
 Phil;;;;Phil.jpg
 Pete;;;;Pete.jpg
 Rapunzel;;;;Rapunzel.jpg
