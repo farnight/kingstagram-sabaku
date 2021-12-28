@@ -14,6 +14,7 @@ Yozora;;;;Yozora.jpg
 Eraqus;YoungEraqus;;;YoungEraqus.jpg
 Xehanort;YoungXehanort;;;YoungXehanort.jpg
 Xion;;シオン;;Xion.jpg
+Ansem;;;;Ansem.png
 -------------Disney--------------;;;;
 Disney;;;;Disney.jpg
 Aladdin;;;;Aladdin.jpg
