@@ -9,7 +9,7 @@ Namine;;ナミネ;;Namine.jpg
 Olette;;オレット;;Olette.jpg
 Pence;;ピンツ;;Pence.jpg
 Riku;;リク;;Riku.jpg
-Repliku;;;;Repliku.jpg
+Repliku;;;;repliku.jpg
 Roxas;;ロクサス;;Roxas.jpg
 Sora;;ソラ;;Sora.jpg
 Yozora;;;;Yozora.jpg
