@@ -74,6 +74,7 @@ Aqua;;アクア;;Aqua.jpg
 Aqua;AntiAqua;;;AntiAqua.jpg
 Aqua;EvilAqua;;;EvilAqua.jpg
 Terra;;テラ;;Terra.jpg
+Terranort;;テラ;;Terranort.jpg
 Vanitas;;ヴァニタス;;Vanitas.jpg
 Ventus;Ventus - BBS;ヴェントゥス;;Ventus.jpg
 --------------KH Uχ--------------;;;;
