@@ -15,6 +15,7 @@ Sora;;ソラ;;Sora.jpg
 Yozora;;;;Yozora.jpg
 Eraqus;YoungEraqus;;;YoungEraqus.jpg
 Xehanort;YoungXehanort;;;YoungXehanort.jpg
+Xehanort;YXehanort;;;YXehanort.jpg
 Xion;;シオン;;Xion.jpg
 -------------Disney--------------;;;;
 Disney;;;;Disney.jpg
